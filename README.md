@@ -2,8 +2,8 @@
 
 <div align="center">
 
-**B.Tech Computer Science Engineering** | RV College of Engineering, Bengaluru  
-*Focused on AI/ML, Web Development, Embedded Computing, and Human-Centered Design*
+**B.E Computer Science Engineering** | RV College of Engineering, Bengaluru  
+*Focused on AI/ML, Web Development and Human-Centered Design*
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adhithi-iyer-121262332)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhithiciyer2005@gmail.com)
@@ -29,7 +29,7 @@ I am a **fourth-semester Computer Science student** with a strong foundation in 
 ---
 
 ### 🗣️ [Antarbhashi.ai](https://github.com/Adhithi02/Antarbhashi.ai)
-> An offline ISL gesture-to-speech and multilingual translation tool, developed in collaboration with the **Indian Navy**.
+> An offline IOR Language speech-to-speech and multilingual translation tool, developed in collaboration with the **Indian Navy**.
 
 **Tech Stack:** `Python` `OpenCV` `AI4Bharat ASR/NLP APIs`  
 **Highlights:** Gesture-based input • Contextual language support • Offline-compatible design
