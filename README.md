@@ -1,137 +1,100 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> **Adhithi C Iyer**
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer;AI%2FML+%26+Web+Developer;Human-Centered+Design+Enthusiast;Building+the+Future+with+Code)](https://git.io/typing-svg)
 
-</div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=500&lines=Computer+Science+Engineer;AI%2FML+Developer;IoT+Systems+Specialist;Full+Stack+Developer)](https://git.io/typing-svg)
 
-<div align="center">
-  
-**🎓 B.E Computer Science Engineering** • **RV College of Engineering, Bengaluru**
+**B.E Computer Science Engineering** • **RV College of Engineering, Bengaluru**
 
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/adhithi-iyer-121262332)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:adhithiciyer2005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/Adhithi02)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adhithi-iyer-121262332)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhithiciyer2005@gmail.com)
 
 </div>
 
 ---
 
-## 🌟 **About Me**
+## 🚀 **About Me**
 
-```javascript
-const adhithi = {
-    currentFocus: "Fourth-semester Computer Science Student",
-    passions: ["Real-time Intelligence", "Accessibility", "Security"],
-    expertise: ["Data Structures", "Algorithms", "Systems Programming"],
-    buildingFor: ["Web", "Embedded Systems", "ML Applications"],
-    motto: "Engineering solutions with empathy, logic, and impact."
-};
-```
+Fourth-semester Computer Science student with expertise in **AI/ML**, **IoT Systems**, and **Web Development**. Passionate about creating technology solutions that address real-world challenges in safety, accessibility, and security.
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
 
-- 🔭 Currently working on **IoT and AI-driven solutions**
-- 🌱 Learning **Advanced Machine Learning** and **Cloud Architecture**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Flutter, AI/ML, or Web Development**
-- ⚡ Fun fact: I love blending **technology with storytelling**
+- 🔭 Building **intelligent IoT solutions** and **AI-powered applications**
+- 🌱 Exploring **advanced machine learning** and **embedded systems**
+- 👥 Collaborating on **open-source projects** and **social impact tech**
+- 💡 Interested in **real-time intelligence**, **accessibility**, and **security**
 
 <br clear="both">
 
 ---
 
-## 🚀 **Featured Projects**
+## 💼 **Featured Projects**
 
-<div align="center">
-  
 ### 🛡️ **IoT Women Safety Wearable**
-*Emergency SOS wearable with real-time intelligence*
-
 [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adhithi02/IOT-Women_Safety_Wearable)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-> 📱 **SOS Trigger** • 📍 **Live GPS Tracking** • 🎙️ **Audio Recording** • 🔔 **GSM Alerts**
+Emergency SOS wearable integrating ESP32 with Flutter app for comprehensive safety features.
 
-</div>
+**Tech Stack:** `Flutter` `ESP32` `Arduino IDE` `GPS & GSM Modules` `Firebase`  
+**Features:** 🚨 SOS Trigger • 📍 Live GPS Tracking • 🎙️ Audio Recording • 📱 Real-time Alerts
 
-<div align="center">
-  
+---
+
 ### 🗣️ **Antarbhashi.ai**
-*Offline multilingual translation for Indian Navy*
-
 [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adhithi02/Antarbhashi.ai)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white)
-![AI](https://img.shields.io/badge/AI4Bharat-FF6B6B?style=flat-square&logo=artificial-intelligence&logoColor=white)
 
-> 👋 **Gesture Input** • 🌐 **Speech-to-Speech** • 📱 **Offline Compatible**
+Offline IOR Language speech-to-speech and multilingual translation tool developed in collaboration with the **Indian Navy**.
 
-</div>
+**Tech Stack:** `Python` `OpenCV` `AI4Bharat ASR/NLP APIs`  
+**Features:** 👋 Gesture-based Input • 🌐 Contextual Language Support • 📱 Offline Compatible
 
-<div align="center">
-  
+---
+
 ### 🌍 **Aantarya**
-*AR-powered cultural onboarding platform*
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adhithi02/Aantarya) [![Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=netlify&logoColor=white)](https://aantarya-rvce.netlify.app)
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adhithi02/Aantarya)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=netlify&logoColor=white)](https://aantarya-rvce.netlify.app)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![AR.js](https://img.shields.io/badge/AR.js-8E44AD?style=flat-square&logo=augmented-reality&logoColor=white)
+React-based cultural onboarding platform blending AR, storytelling, and TTS to help newcomers experience Bengaluru's local culture.
 
-> 🎯 **AR Navigation** • 🗣️ **Kannada TTS** • 📚 **Immersive Storytelling**
+**Tech Stack:** `React` `Tailwind CSS` `AR.js`  
+**Features:** 🎯 Kannada TTS • 🥽 AR-enabled Navigation • 📚 Immersive Storytelling
 
-</div>
+---
 
-<div align="center">
-  
-### 🧬 **Bio-Inspired Fraud Detection**
-*Blockchain fraud analysis using bio-inspired algorithms*
+### 🧬 **Bio-Inspired Fraud Detection Suite**
+[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adhithi02/Financial-Fraud-Detection) [![Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=netlify&logoColor=white)](https://finacialogy-rvce.netlify.app)
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adhithi02/Financial-Fraud-Detection)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=netlify&logoColor=white)](https://finacialogy-rvce.netlify.app)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Stellar-7B68EE?style=flat-square&logo=stellar&logoColor=white)
+Blockchain fraud analysis framework using bio-inspired models including neural cortex simulation, mold pathfinding, and infection spread tracking.
 
-> 🧠 **Neural Cortex Simulation** • 🦠 **Mold Pathfinding** • 📊 **SIR Modeling**
+**Tech Stack:** `Python (Flask)` `Stellar Blockchain` `NetworkX`  
+**Modules:** 🧠 Hebbian Anomaly Detection • 🦠 Mold Growth Graph Routing • 📊 SIR-based Fraud Propagation
 
-</div>
-
-<details>
-<summary><b>🔍 More Projects</b></summary>
-
-<br>
+---
 
 ### 😊 **Emotion Detection Model**
 [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adhithi02/Emotion_detection_model)
 
-**Multimodal emotion recognition using facial expressions and voice**
-- 🎭 Real-time facial emotion recognition with CNN
-- 🎵 Voice-based emotion classification
-- 📹 OpenCV integration for live detection
+Deep learning system detecting emotional states using multimodal input from facial expressions and voice signals.
+
+**Tech Stack:** `Python` `OpenCV` `TensorFlow`  
+**Features:** 🎭 Real-time Facial Emotion Recognition • 🎵 Voice-based Emotion Classification • 📹 CNN Implementation
+
+---
 
 ### 🛠️ **GDG 2025**
 [![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adhithi02/GDG_2025)
 
-**Experimental builds for Google Developer Group DevFest 2025**
-- 🚀 Open-source demonstrations
-- 🎨 Event-specific showcases
-- 🧪 Experimental UI/UX prototypes
+Experimental builds and prototypes created for Google Developer Group DevFest 2025, showcasing innovative UI/UX concepts.
 
-</details>
+**Tech Stack:** `Flutter` `Firebase` `Web APIs`  
+**Focus:** 🚀 Open-source Demos • 🎨 Event-specific Showcases • 🧪 Experimental UI/UX
 
 ---
 
-## 🛠️ **Tech Arsenal**
+## 🛠️ **Technical Arsenal**
 
 <div align="center">
 
-### **Languages**
+### **Programming Languages**
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -150,24 +113,11 @@ const adhithi = {
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### **Operating Systems**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-</div>
-
----
-
-## 🎯 **Domains of Expertise**
-
-<div align="center">
-
-| Domain | Technologies | Focus Areas |
-|--------|-------------|-------------|
-| 🤖 **AI/ML** | TensorFlow, OpenCV, Python | Computer Vision, NLP, Emotion Recognition |
-| 🌐 **Web Development** | React, JavaScript, Flask | Frontend & Backend Solutions |
-| 🔌 **IoT & Embedded** | ESP32, Arduino, Sensors | Real-time Systems, Hardware Integration |
-| 🥽 **AR/VR** | AR.js, WebXR | Digital Humanities, Immersive Experiences |
+### **Specialization Areas**
+- 🤖 **AI/ML** - Computer Vision, NLP, Emotion Recognition
+- 🌐 **Web Development** - Frontend & Backend Solutions  
+- 🔌 **IoT & Embedded** - Real-time Systems, Sensor Integration
+- 🥽 **AR/VR** - Digital Humanities, Immersive Applications
 
 </div>
 
@@ -176,48 +126,25 @@ const adhithi = {
 ## 📊 **GitHub Analytics**
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Adhithi02&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adhithi02&layout=compact&langs_count=8&theme=algolia"/>
 
-</div>
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Adhithi02&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Adhithi02&layout=compact&langs_count=8&theme=algolia&hide_border=true)
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adhithi02&theme=algolia)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Adhithi02&theme=algolia&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
 ---
 
-## 🏆 **Contribution Graph**
-
-<div align="center">
-  
-[![Adhithi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Adhithi02&theme=react-dark&bg_color=20232a&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## 🌟 **Let's Connect!**
+## 🌟 **Let's Connect**
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adhithi-iyer-121262332)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adhithiciyer2005@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adhithi02)
 
-<br>
+### 💫 *"Engineering solutions with empathy, logic, and impact."*
 
-### 💭 *"Engineering solutions with empathy, logic, and impact."*
+![Profile Views](https://komarev.com/ghpvc/?username=Adhithi02&color=4F46E5&style=for-the-badge&label=Profile+Views)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Adhithi02&color=6366f1&style=for-the-badge&label=Profile+Views)
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=75&animation=twinkling&fontColor=gradient" />
 </div>
