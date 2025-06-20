@@ -17,7 +17,7 @@
 
 Fourth-semester Computer Science student with expertise in **AI/ML**, **IoT Systems**, and **Web Development**. Passionate about creating technology solutions that address real-world challenges in safety, accessibility, and security.
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
 - 🔭 Building **intelligent IoT solutions** and **AI-powered applications**
 - 🌱 Exploring **advanced machine learning** and **embedded systems**
@@ -30,63 +30,15 @@ Fourth-semester Computer Science student with expertise in **AI/ML**, **IoT Syst
 
 ## 💼 **Featured Projects**
 
-### 🛡️ **IoT Women Safety Wearable**
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adhithi02/IOT-Women_Safety_Wearable)
-
-Emergency SOS wearable integrating ESP32 with Flutter app for comprehensive safety features.
-
-**Tech Stack:** `Flutter` `ESP32` `Arduino IDE` `GPS & GSM Modules` `Firebase`  
-**Features:** 🚨 SOS Trigger • 📍 Live GPS Tracking • 🎙️ Audio Recording • 📱 Real-time Alerts
-
----
-
-### 🗣️ **Antarbhashi.ai**
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adhithi02/Antarbhashi.ai)
-
-Offline IOR Language speech-to-speech and multilingual translation tool developed in collaboration with the **Indian Navy**.
-
-**Tech Stack:** `Python` `OpenCV` `AI4Bharat ASR/NLP APIs`  
-**Features:** 👋 Gesture-based Input • 🌐 Contextual Language Support • 📱 Offline Compatible
-
----
-
-### 🌍 **Aantarya**
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adhithi02/Aantarya) [![Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=netlify&logoColor=white)](https://aantarya-rvce.netlify.app)
-
-React-based cultural onboarding platform blending AR, storytelling, and TTS to help newcomers experience Bengaluru's local culture.
-
-**Tech Stack:** `React` `Tailwind CSS` `AR.js`  
-**Features:** 🎯 Kannada TTS • 🥽 AR-enabled Navigation • 📚 Immersive Storytelling
-
----
-
-### 🧬 **Bio-Inspired Fraud Detection Suite**
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adhithi02/Financial-Fraud-Detection) [![Demo](https://img.shields.io/badge/Live_Demo-00C851?style=for-the-badge&logo=netlify&logoColor=white)](https://finacialogy-rvce.netlify.app)
-
-Blockchain fraud analysis framework using bio-inspired models including neural cortex simulation, mold pathfinding, and infection spread tracking.
-
-**Tech Stack:** `Python (Flask)` `Stellar Blockchain` `NetworkX`  
-**Modules:** 🧠 Hebbian Anomaly Detection • 🦠 Mold Growth Graph Routing • 📊 SIR-based Fraud Propagation
-
----
-
-### 😊 **Emotion Detection Model**
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adhithi02/Emotion_detection_model)
-
-Deep learning system detecting emotional states using multimodal input from facial expressions and voice signals.
-
-**Tech Stack:** `Python` `OpenCV` `TensorFlow`  
-**Features:** 🎭 Real-time Facial Emotion Recognition • 🎵 Voice-based Emotion Classification • 📹 CNN Implementation
-
----
-
-### 🛠️ **GDG 2025**
-[![Repo](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adhithi02/GDG_2025)
-
-Experimental builds and prototypes created for Google Developer Group DevFest 2025, showcasing innovative UI/UX concepts.
-
-**Tech Stack:** `Flutter` `Firebase` `Web APIs`  
-**Focus:** 🚀 Open-source Demos • 🎨 Event-specific Showcases • 🧪 Experimental UI/UX
+| Project | Description | Tech Stack | Links |
+|---------|-------------|------------|-------|
+| 🛡️ **IoT Women Safety Wearable** | Emergency SOS wearable with ESP32 & Flutter integration | `Flutter` `ESP32` `Firebase` `GPS/GSM` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Adhithi02/IOT-Women_Safety_Wearable) |
+| 🗣️ **Antarbhashi.ai** | Offline multilingual translation for Indian Navy | `Python` `OpenCV` `AI4Bharat APIs` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Adhithi02/Antarbhashi.ai) |
+| 🌍 **Aantarya** | AR-powered cultural onboarding platform | `React` `Tailwind CSS` `AR.js` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Adhithi02/Aantarya) [![Demo](https://img.shields.io/badge/Demo-00C851?style=flat-square&logo=netlify)](https://aantarya-rvce.netlify.app) |
+| 🧬 **Bio-Inspired Fraud Detection** | Blockchain fraud analysis with neural algorithms | `Flask` `Stellar` `NetworkX` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Adhithi02/Financial-Fraud-Detection) [![Demo](https://img.shields.io/badge/Demo-00C851?style=flat-square&logo=netlify)](https://finacialogy-rvce.netlify.app) |
+| 😊 **Emotion Detection Model** | Multimodal emotion recognition system | `Python` `OpenCV` `TensorFlow` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Adhithi02/Emotion_detection_model) |
+| 🐛 **21_debugHers** | Debugging solutions and code optimization project | `Programming` `Debugging` `Code Review` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Adhithi02/21_debugHers) |
+| 🛠️ **GDG 2025** | Experimental prototypes for DevFest 2025 | `Flutter` `Firebase` `Web APIs` | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Adhithi02/GDG_2025) |
 
 ---
 
@@ -94,30 +46,12 @@ Experimental builds and prototypes created for Google Developer Group DevFest 20
 
 <div align="center">
 
-### **Programming Languages**
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### **Frameworks & Libraries**
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-
-### **Tools & Platforms**
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### **Specialization Areas**
-- 🤖 **AI/ML** - Computer Vision, NLP, Emotion Recognition
-- 🌐 **Web Development** - Frontend & Backend Solutions  
-- 🔌 **IoT & Embedded** - Real-time Systems, Sensor Integration
-- 🥽 **AR/VR** - Digital Humanities, Immersive Applications
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Frameworks** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
+| **Tools** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
+| **Domains** | 🤖 AI/ML • 🌐 Web Development • 🔌 IoT Systems • 🥽 AR/VR |
 
 </div>
 
