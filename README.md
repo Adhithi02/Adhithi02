@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B+I'm+Adhithi+C+Iyer;Passionate+about+AI%2C+IoT%2C+Web+Tech;Let's+build+impactful+solutions!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B+I'm+Adhithi+C+Iyer;Passionate+about+AI%2C+Web+Tech;Let's+build+impactful+solutions!" alt="Typing SVG" />
 </p>
 
 # 👩‍💻 Adhithi C Iyer
@@ -11,13 +11,12 @@
 
 ## 🚀 About Me
 
-I am a dedicated Computer Science undergraduate at RV College of Engineering, Bengaluru, with a strong interest in creating impactful solutions at the intersection of Artificial Intelligence, IoT, and Web Technologies. I am passionate about leveraging technology for social good and actively contribute to open-source projects. My goal is to build intelligent systems that advance accessibility, real-time intelligence, and digital security.
+I am a Computer Science undergraduate at RV College of Engineering, Bengaluru, with a strong interest in creating impactful solutions at the intersection of Artificial Intelligence and Web Technologies. I am passionate about leveraging technology for social good and interested in actively contributing to open-source projects. My goal is to build intelligent systems that advance accessibility, real-time intelligence, and digital security.
 
-- 🔭 Currently working on smart IoT solutions and AI-powered applications
+- 🔭 Currently working on AI-powered applications
 - 🌱 Exploring embedded systems and advanced machine learning
-- 🤝 Collaborating on open-source and social impact projects
-- 💡 Focused on real-time intelligence, accessibility, and digital security
-
+- 🤝 Interested in Collaborating on open-source projects
+- 
 ---
 
 ## 🛠️ Technical Skills
@@ -27,7 +26,7 @@ I am a dedicated Computer Science undergraduate at RV College of Engineering, Be
 | **Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) |
 | **Frameworks** | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) |
 | **Tools** | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
-| **Domains** | 🤖 AI/ML • 🌐 Web Development • 📡 IoT Systems • 🧠 Embedded Technologies |
+| **Domains** | 🤖 AI/ML • 🌐 Web Development |
 
 ---
 
