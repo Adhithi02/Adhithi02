@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=900&lines=Hi+there+👋+I'm+Adhithi+C+Iyer;Computer+Science+Undergraduate;Building+Impactful+Technology;Learning.+Building.+Growing." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=900&lines=Hi+there+👋+I'm+Adhithi+C+Iyer;Computer+Science+Undergraduate;Building+Impactful+Technology" alt="Typing SVG" />
 </p>
 
 # 👩‍💻 Adhithi C Iyer  
-### Computer Science Undergraduate | Tech Enthusiast
+### Computer Science Undergraduate | Tech Enthusiast  
 
 🎓 **RV College of Engineering, Bengaluru (2023–2027)**  
 
@@ -11,10 +11,10 @@
 
 ## 🌱 About Me
 
-I’m a Computer Science undergraduate driven by curiosity and a strong interest in building impactful, scalable, and meaningful technology.  
-I enjoy working across **AI, full-stack development, IoT, and system design**, and I’m passionate about solving real-world problems through thoughtful engineering.
+I’m a Computer Science undergraduate driven by curiosity and a passion for building meaningful, scalable technology.  
+I enjoy working across **AI, full-stack development, IoT, and system design**, and I love solving real-world problems through thoughtful engineering.
 
-I believe in continuous learning, hands-on experimentation, and building solutions that make a difference.
+I believe in continuous learning, hands-on experimentation, and building solutions that truly make an impact.
 
 ---
 
@@ -69,7 +69,6 @@ I believe in continuous learning, hands-on experimentation, and building solutio
 
 ---
 
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -79,10 +78,9 @@ I believe in continuous learning, hands-on experimentation, and building solutio
 
 ---
 
-### ✨ Let’s Connect
+### 📫 Let’s Connect
 
-📫 **Email:** adhithiciyer2005@gmail.com  
-💼 **LinkedIn:** https://linkedin.com/in/your-profile](https://www.linkedin.com/in/adhithi-iyer-121262332/
-💻 **GitHub:** https://github.com/Adhithi02  
+- **Email:** adhithiciyer2005@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/adhithi-iyer-121262332/  
+- **GitHub:** https://github.com/Adhithi02  
 
-  
