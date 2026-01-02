@@ -58,15 +58,6 @@ I believe in continuous learning, hands-on experimentation, and building solutio
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Adhithi02&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Adhithi02&theme=tokyonight" />
-</p>
-
----
-
 ### 📫 Let’s Connect
 
 - **Email:** adhithiciyer2005@gmail.com  
