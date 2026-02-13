@@ -1,5 +1,3 @@
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4F46E5&center=true&vCenter=true&width=800&lines=Hi+there+%F0%9F%91%8B+I'm+Adhithi+C+Iyer;I+enjoy+learning+and+building+real-world+tech;Curious+mind+with+a+passion+for+impact." alt="Typing SVG" /> </p>
-
 # 👩‍💻 Adhithi C Iyer  
 ### Computer Science Undergraduate | Tech Enthusiast  
 
