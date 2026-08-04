@@ -3,16 +3,12 @@
 
 🎓 **RV College of Engineering, Bengaluru (2023–2027)**  
 
----
-
 ## 🌱 About Me
 
 I’m a Computer Science undergraduate driven by curiosity and a passion for building meaningful, scalable technology.  
 I enjoy working across **AI, full-stack development, IoT, and system design**, and I love solving real-world problems through thoughtful engineering.
 
 I believe in continuous learning, hands-on experimentation, and building solutions that truly make an impact.
-
----
 
 ## 🛠️ Tech Arsenal
 
@@ -54,7 +50,6 @@ I believe in continuous learning, hands-on experimentation, and building solutio
 ![ESP32](https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=esphome&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
 
----
 
 ### 📫 Let’s Connect
 
